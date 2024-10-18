@@ -1,10 +1,11 @@
 {
-  "token": "6480327163:AAEne2GUYc6OXhWGEBi90Ug5NS4K8I3nRtk",
+  "token": "6876356988:AAHMQFfaZ-NP3KAYVzYw0BvNzWTYONYUuFs",
   "polling": true,
   "port": 8080,
   "api": "https://ajiro-api.onrender.com",
-  "prefix": "-",
+  "apiv2": "http://dongdev.click",
+  "prefix": "/",
   "symbols": "●",
-  "owner": "Lance Ajiro",
-  "admin": ["6488288986"]
+  "owner": "ʙʟᴀᴄᴋ ɢᴏᴋᴜ",
+  "admin": ["5930542560"]
 }
